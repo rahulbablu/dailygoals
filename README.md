@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# A responsive TodoList / Daily Goals app with localStorage: Check it out - https://dailygoals.vercel.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
